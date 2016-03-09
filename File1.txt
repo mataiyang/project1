@@ -1,10 +1,13 @@
 //------REVISION HISTORY-------
 
 // 09/03/2016 - Victor Grinyak - Initial version
+// 09/03/2016 - Victor Grinyak - Two words added
 
 //-----------------------------
 
 Apple
 Banana
 Cat
+Crocodile
+Comfort
 Desk
