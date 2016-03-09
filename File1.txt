@@ -2,6 +2,7 @@
 
 // 09/03/2016 - Victor Grinyak - Initial version
 // 09/03/2016 - Victor Grinyak - Two words added
+// 09/03/2016 - Victor Grinyak - One word added
 
 //-----------------------------
 
@@ -10,4 +11,5 @@ Banana
 Cat
 Crocodile
 Comfort
+Camera
 Desk

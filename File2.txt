@@ -2,10 +2,11 @@
 
 // 09/03/2016 - Victor Grinyak - Initial version
 // 09/03/2016 - Nataya Makusheva - Added one name
+// 09/03/2016 - Victor Grinyak - Some code changed
 
 //-----------------------------
 
 Tom
-Jerry
 Mikkey
+Donald
 Pluto
